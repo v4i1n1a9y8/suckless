@@ -1,0 +1,4 @@
+[submodule "dwm"]
+	path = dwm
+	url = https://git.suckless.org/dwm
+	branch = master
